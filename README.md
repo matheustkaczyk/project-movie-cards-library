@@ -3,8 +3,6 @@ Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O 
 Data de entrega: 30/06/2021
 
 # Habilidades
-
-  Nesse projeto, você será capaz de:
   - Saber a melhor forma para instalar um gerenciador de pacotes
   - Inicializar um projeto em **React**
   - Utilizar JSX no **React**
